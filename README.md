@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaylenTon
 - 👀 I’m interested in data science and analytics.
-- 🌱 I’m a Senior, working towards a Bachelor's degree in information science, with a concetration in data science and analytics at University of South Florida.
+- 🌱 I’m a recent graduate from the University of South Florida with a Bachelor’s degree in Information Science, with a concentration in Data Science and Analytics.
 - 💞️ I’m looking to collaborate on future projects!
 - 📫 How to reach me via linkedin: linkedin.com/in/kaylenton or email: kaylent2k@gmail.com
 
